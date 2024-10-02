@@ -1,0 +1,50 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: beige url('img/fundo.png');
+    
+}
+.img_capa{
+    width: 900px;
+    padding: 20px;
+    }
+
+#menu{
+    background-color: beige;
+    padding: 15px;
+
+}
+
+
+
+h3{
+    font-size: 20px;
+    background-color: bisque ;
+}
+p{
+    padding: 10px;
+    background-color: bisque;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+
+}
+img{
+    image-rendering: auto;
+    width: max-content;
+}
+
+a{
+    padding: 10px;
+    color: indianred;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    
+}
+
+.rodape{
+    text-align: center;
+    font-style: normal;
+    font-size: 15px;
+}
